@@ -20,3 +20,4 @@ crash.log  override.tf override.tf.json .terraformrc terraform.rc - игнори
 вместо звездочки произвольный набор символов 
 _______________________________
 
+film film film
